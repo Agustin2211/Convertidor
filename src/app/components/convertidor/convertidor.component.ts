@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class ConvertidorComponent {
 
+  cantidad = 0;
+  tengo ='DOLAR';
+  quiero = 'EURO';
+  total = 0;
+
+  monedas: string[] = ['DOLAR', 'EURO', 'LIBRA']
+
 }
