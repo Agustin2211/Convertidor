@@ -1,5 +1,11 @@
 # Convertidor
 
+Convertidor realizado en Angular, NO se conecta a una API (por el momento)
+
+Link del Convertidor: https://sprightly-pastelito-698222.netlify.app/
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
 ## Development server
